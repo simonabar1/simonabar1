@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **on new projects to build my skills to a new position as a full-stack developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/simonabar1](https://github.com/simonabar1)
+- 👨‍💻 All of my projects are available at https://troopl.com/simona_barone
 
 -  📫 How to reach me Simona_barone@hotmail.com
 
