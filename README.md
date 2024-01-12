@@ -1,16 +1,4 @@
 <h1 align="center">Hi 👋, I'm Simona</h1>
-<h3 align="center">An IT/EN Fullstack Developer based in Rotterdam, Netherlands</h3>
-
-
-- 🌱 I’m currently learning **React, Vue and NodeJS**
-
-- 👯 I’m looking to collaborate on **on new projects to build my skills to a new position as a full-stack developer**
-
-- 👨‍💻 All of my projects are available at https://troopl.com/simona_barone
-
--  📫 How to reach me Simona_barone@hotmail.com
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/simona-barone](https://www.linkedin.com/in/simona-barone)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
